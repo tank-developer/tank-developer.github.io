@@ -1,0 +1,37 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "swift",
+      "amount": "95"
+    },
+    {
+      "id": 1,
+      "skillName": "Objective-C",
+      "amount": "95"
+    },
+    {
+      "id": 2,
+      "skillName": "Java",
+      "amount": "90"
+    },
+    { "id": 3, "skillName": "Javascript", "amount": "60" },
+    {
+      "id": 4,
+      "skillName": "figma",
+      "amount": "80"
+    },
+    {
+      "id": 5,
+      "skillName": "springboot",
+      "amount": "75"
+    },
+    { "id": 6, "skillName": "react.js", "amount": "70" },
+    { "id": 7, "skillName": "VodeoCut", "amount": "70" },
+    {
+      "id": 8,
+      "skillName": "handsome",
+      "amount": "20"
+    }
+  ]
+}

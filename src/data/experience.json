@@ -1,0 +1,52 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://apps.apple.com/cn/app/%E6%BA%9C%E6%BA%9C%E8%AE%B0%E8%B4%A6/id6468029980",
+      "company": "8secondz",
+      "title": "溜溜记账",
+      "dateFrom": "2022",
+      "dateTo": "Current",
+      "info": [
+        "一款普通颜色清新的记账App。",
+        "支持本地数据的缓存和iCloud的数据保存。"
+      ],
+      "stack": ["swift", "Objective-C", "ORM", "iCloud"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    },
+    {
+      "id": 1,
+      "link": "https://apps.apple.com/cn/app/%E7%95%99%E6%96%87/id6472631131",
+      "company": "Psykinetic",
+      "title": "留文",
+      "dateFrom": "2022",
+      "dateTo": "Current",
+      "info": [
+        "极简风格的OCR类型的App。",
+        "支持图片获取文字，也可以语音转文字。"
+      ],
+      "stack": ["swift", "Objective-C", "SpeechKit", "OCR"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    },
+    {
+      "id": 2,
+      "link": "https://apps.apple.com/cn/app/%E5%8D%A1%E5%8D%A1%E7%9B%B8%E6%9C%BA/id1621713276",
+      "company": "CactusCan",
+      "title": "卡卡相机",
+      "dateFrom": "2022",
+      "dateTo": "Current",
+      "info": [
+        "一款还在开发中、修改中的App。",
+        "不建议使用。"
+      ],
+      "stack": ["swift", "Objective-C", "AI", "PhotoKit"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
+      "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"
+    }
+  ]
+}
